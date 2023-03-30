@@ -1,6 +1,6 @@
 ## Yannick Stephan 👋
 #### AI ML engineer | Software engineer | Senior mobile developer (iOS & Android)
-##### Conversion to become an AI ML engineer
+##### Conversion to become an AI ML engineer 🚀
 
 
 <b>*About Me*:</b> 
@@ -14,4 +14,4 @@
 This program will equip me with the skills to become a proficient Data Scientist, MLOps specialist, and ML Engineer.
 
   ✉️ &nbsp;Get in touch on [LinkedIn](https://www.linkedin.com/in/yannick-stephan/) & [Stackoverflow](https://stackoverflow.com/users/3765457/yannsteph) 
-  🇫🇷🇨🇦🇺🇸🇪🇸🇨🇭
+  🇫🇷🇨🇦🇺🇸🇪🇸🇨🇭🌎
