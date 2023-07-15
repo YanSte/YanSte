@@ -21,5 +21,7 @@
 
 **My AI Projets:**
 
+- DNN:
+  - [[DNN]-[Wine] Wine quality prediction with a Dense Network (DNN)](https://www.kaggle.com/yannicksteph/dnn-wine-wine-quality-prediction-with-dnn) 
 - CNN:
   - [[CNN]-[MNIST] - Simple Classification with Convolutional Neural Networks](https://www.kaggle.com/yannicksteph/cnn-mnist-simple-classification-with-cnn/) 
