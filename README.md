@@ -25,4 +25,4 @@
   - [[DNN]-[Wine] Prediction with a Dense Network](https://www.kaggle.com/yannicksteph/dnn-wine-wine-quality-prediction-with-dnn) 
 - CNN:
   - [[CNN]-[MNIST] Classification with Convolutional Neural Networks](https://www.kaggle.com/yannicksteph/cnn-mnist-simple-classification-with-cnn/)
-  - [[CNN]-[GTSRB] Classification with Convolutional Neural Networks](https://github.com/YanSteph/CNN-GTSRB-Classification-with-Convolutional-Neural-Networks/tree/main) 
+  - [[CNN]-[GTSRB] Classification with Convolutional Neural Networks](https://www.kaggle.com/yannicksteph/cnn-gtsrb-classification-with-cnn/) 
