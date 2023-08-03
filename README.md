@@ -22,7 +22,8 @@
 **My AI Projets:**
 
 - DNN:
-  - [[DNN]-[Wine] Prediction with a Dense Network](https://www.kaggle.com/yannicksteph/dnn-wine-wine-quality-prediction-with-dnn) 
+  - [| DNN | WINE | Prediction |](https://www.kaggle.com/yannicksteph/dnn-wine-wine-quality-prediction-with-dnn) 
 - CNN:
-  - [[CNN]-[MNIST] Classification with Convolutional Neural Networks](https://www.kaggle.com/yannicksteph/cnn-mnist-simple-classification-with-cnn/)
-  - [[CNN]-[GTSRB] Classification with Convolutional Neural Networks](https://www.kaggle.com/yannicksteph/cnn-gtsrb-classification-with-cnn/) 
+  - [| CNN | CV | MNIST | Classification |](https://www.kaggle.com/yannicksteph/cnn-mnist-simple-classification-with-cnn/)
+  - [| CNN | CV | GTSRB | Classification |](https://www.kaggle.com/yannicksteph/cnn-gtsrb-classification-with-cnn/)
+  - [| CNN | CV | RICE | Classification |](https://github.com/YanSteph/CNN-CV-RICE-Classification)  
