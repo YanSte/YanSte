@@ -22,10 +22,11 @@
 **My Projets:**
 
 - DNN:
-  - [| DNN | WINE | Prediction |](https://www.kaggle.com/yannicksteph/dnn-wine-wine-quality-prediction-with-dnn) 
+  - [| DNN | WINE | Prediction |](https://www.kaggle.com/code/yannicksteph/dnn-wine-prediction) 
 - CNN:
-  - [| CNN | CV | MNIST | Classification |](https://www.kaggle.com/yannicksteph/cnn-mnist-simple-classification-with-cnn/)
-  - [| CNN | CV | GTSRB | Classification |](https://www.kaggle.com/yannicksteph/cnn-gtsrb-classification-with-cnn/)
-  - [| CNN | CV | RICE | Classification |](https://github.com/YanSteph/CNN-CV-RICE-Classification)
+  - [| CNN | CV | RICE | Classification |](https://www.kaggle.com/code/yannicksteph/cnn-cv-rice-classification)
+  - [| CNN | CV | GTSRB | Classification |](https://www.kaggle.com/code/yannicksteph/cnn-cv-gtsrb-classification)
+  - [| CNN | CV | MNIST | Classification |](https://www.kaggle.com/code/yannicksteph/cnn-cv-mnist-classification)
+    
 - Library:
   - [| SKit |](https://github.com/YanSteph/SKit)
