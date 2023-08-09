@@ -18,15 +18,22 @@
 🌎 &nbsp;I am fluent in English and French, and I have experience working in international settings in France, Spain, Canada, the United States, and Switzerland.
 🇫🇷🇨🇦🇺🇸🇪🇸🇨🇭
 
+* * *
 
-**My Projets:**
+📂 **My Projects:**
 
-- DNN:
-  - [| DNN | WINE | Prediction |](https://www.kaggle.com/code/yannicksteph/dnn-wine-prediction) 
-- CNN:
-  - [| CNN | CV | RICE | Classification |](https://www.kaggle.com/code/yannicksteph/cnn-cv-rice-classification)
-  - [| CNN | CV | GTSRB | Classification |](https://www.kaggle.com/code/yannicksteph/cnn-cv-gtsrb-classification)
-  - [| CNN | CV | MNIST | Classification |](https://www.kaggle.com/code/yannicksteph/cnn-cv-mnist-classification)
-    
-- Library:
-  - [| SKit |](https://github.com/YanSteph/SKit)
+**Deep Neural Networks (DNN):**
+
+*   🍷 **Wine Quality Prediction**: Utilized DNN to predict wine quality based on physicochemical properties. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/dnn-wine-prediction)
+
+**Convolutional Neural Networks (CNN):**
+
+*   🌾 **Rice Grain Classification**: Employed CNN to classify different types of rice grains. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/cnn-cv-rice-classification)
+*   🚦 **Traffic Sign Recognition (GTSRB)**: Developed a CNN-based model for real-time traffic sign recognition. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/cnn-cv-gtsrb-classification)
+*   ✍️ **Handwritten Digit Classification (MNIST)**: Achieved high accuracy in classifying handwritten digits using CNN. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/cnn-cv-mnist-classification)
+
+**Software Libraries:**
+
+*   🛠️ **SKit**: A custom software library I developed. [| View on GitHub |](https://github.com/YanSteph/SKit)
+
+* * *
