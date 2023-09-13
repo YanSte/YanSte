@@ -28,6 +28,7 @@
 
 **Convolutional Neural Networks (CNN):**
 
+*   🧠 **Brain MGMT Prediction**: Developed a CNN-based model for prediction of the MGMT. [| View on Kaggle |](https://www.kaggle.com/yannicksteph/cnn-cv-brain-prediction)
 *   🌾 **Rice Grain Classification**: Employed CNN to classify different types of rice grains. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/cnn-cv-rice-classification)
 *   🚦 **Traffic Sign Recognition (GTSRB)**: Developed a CNN-based model for real-time traffic sign recognition. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/cnn-cv-gtsrb-classification)
 *   ✍️ **Handwritten Digit Classification (MNIST)**: Achieved high accuracy in classifying handwritten digits using CNN. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/cnn-cv-mnist-classification)
