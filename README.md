@@ -36,5 +36,3 @@
 **Software Libraries:**
 
 *   🛠️ **SKit**: A custom software library I developed. [| View on GitHub |](https://github.com/YanSteph/SKit)
-
-* * *
