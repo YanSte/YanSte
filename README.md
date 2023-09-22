@@ -22,10 +22,9 @@
 
 📂 **My Projects:**
 
-**Analysis:**
+**XGBoost:**
 
-*   🧠 **Brain MGMT Prediction**: Analysis for prediction of the MGMT. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/u-net-cv-brain-prediction)
-
+*   🧠 **Brain MGMT Prediction**: Analysis and development of an XGBoost for MGMT prediction. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/u-net-cv-brain-prediction)
 
 **Deep Neural Networks (DNN):**
 
