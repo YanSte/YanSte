@@ -22,6 +22,11 @@
 
 📂 **My Projects:**
 
+**Analysis:**
+
+*   🧠 **Brain MGMT Prediction**: Analysis for prediction of the MGMT. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/u-net-cv-brain-prediction)
+
+
 **Deep Neural Networks (DNN):**
 
 *   🍷 **Wine Quality Prediction**: Utilized DNN to predict wine quality based on physicochemical properties. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/dnn-wine-prediction)
