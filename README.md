@@ -22,7 +22,7 @@
 
 📂 **My Projects:**
 
-**XGBoost:**
+**Machine Learning:**
 
 *   🧠 **Brain MGMT Prediction**: Analysis and development of an XGBoost for MGMT prediction. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/u-net-cv-brain-prediction)
 
@@ -30,12 +30,16 @@
 
 *   🍷 **Wine Quality Prediction**: Utilized DNN to predict wine quality based on physicochemical properties. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/dnn-wine-prediction)
 
-**Convolutional Neural Networks (CNN):**
+**Computer Vision (CV):**
 
 *   🧠 **Brain MGMT Prediction**: Developed a CNN-based model for prediction of the MGMT. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/cnn-cv-brain-prediction)
 *   🌾 **Rice Grain Classification**: Employed CNN to classify different types of rice grains. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/cnn-cv-rice-classification)
 *   🚦 **Traffic Sign Recognition (GTSRB)**: Developed a CNN-based model for real-time traffic sign recognition. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/cnn-cv-gtsrb-classification)
 *   ✍️ **Handwritten Digit Classification (MNIST)**: Achieved high accuracy in classifying handwritten digits using CNN. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/cnn-cv-mnist-classification)
+
+**Generative Models (GM)** 
+
+*   🚲 **QuickDraw Image Generation**: Exploration of Generative Models (GM) and its capabilities, focusing on the generation of bicycle. [| View on Kaggle |](https://www.kaggle.com/yannicksteph/wgan-gp-gm-quickdraw-image-generation/)
 
 **Software Libraries:**
 
