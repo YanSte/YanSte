@@ -24,7 +24,7 @@
 
 **Machine Learning:**
 
-*   🧠 **Brain MGMT Prediction**: Analysis and development of an XGBoost for MGMT prediction. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/u-net-cv-brain-prediction)
+*   🧠 **Brain MGMT Prediction**: Comprehensive analysis and model development for MGMT prediction using an XGBoost ensemble with a U-Net-based feature extractor. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/u-net-cv-brain-prediction)
 
 **Deep Neural Networks (DNN):**
 
