@@ -39,7 +39,11 @@
 
 **Generative Models (GM)** 
 
-*   🚲 **QuickDraw Image Generation**: Exploration of Generative Models (GM) and its capabilities, focusing on the generation of bicycle. [| View on Kaggle |](https://www.kaggle.com/yannicksteph/wgan-gp-gm-quickdraw-image-generation/)
+*   🚲 **Bicycle Image Generation**: Exploration of Generative Models (GM) and its capabilities, focusing on the generation of bicycle. [| View on Kaggle |](https://www.kaggle.com/yannicksteph/wgan-gp-gm-quickdraw-image-generation/)
+
+**Large Language Models (LLM)**
+
+*   💬 **Dialogue Summarize**: Exploration of Large Language Model (LLM) and its capabilities, specifically dialogue summarization abilities. It highlights the use of a comprehensive fine-tuning approach called Efficient Fine-Tuning (PEFT) [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/lnp-perf-dialogsum-dialogue-summarize/notebook)
 
 **Software Libraries:**
 
