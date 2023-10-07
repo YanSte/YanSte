@@ -43,7 +43,7 @@
 
 **Large Language Models (LLM)**
 
-*   💬 **Dialogue Summarize**: Exploration of Large Language Model (LLM) and its capabilities, specifically dialogue summarization abilities. It highlights the use of a comprehensive fine-tuning approach called Efficient Fine-Tuning (PEFT) [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/lnp-perf-dialogsum-dialogue-summarize/notebook)
+*   💬 **Dialogue Summarize**: Exploration of Large Language Model (LLM) and its capabilities, specifically dialogue summarization abilities. It highlights the use of a comprehensive fine-tuning approach called Efficient Fine-Tuning (PEFT) [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/lnp-perf-dialogsum-dialogue-summarize/)
 
 **Software Libraries:**
 
