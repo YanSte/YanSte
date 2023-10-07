@@ -22,7 +22,7 @@
 
 📂 **My Projects:**
 
-**Machine Learning:**
+**Machine Learning (ML):**
 
 *   🧠 **Brain MGMT Prediction**: Comprehensive analysis and model development for MGMT prediction using an XGBoost ensemble with a U-Net-based feature extractor. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/u-net-cv-brain-prediction)
 
@@ -41,7 +41,7 @@
 
 *   🚲 **Bicycle Image Generation**: Exploration of Generative Models (GM) and its capabilities, focusing on the generation of bicycle. [| View on Kaggle |](https://www.kaggle.com/yannicksteph/wgan-gp-gm-quickdraw-image-generation/)
 
-**Large Language Models (LLM)**
+**Natural language processing (NLP)**
 
 *   💬 **Dialogue Summarize**: Exploration of Large Language Model (LLM) and its capabilities, specifically dialogue summarization abilities. It highlights the use of a comprehensive fine-tuning approach called Efficient Fine-Tuning (PEFT) [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/lnp-perf-dialogsum-dialogue-summarize/)
 
