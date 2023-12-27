@@ -1,5 +1,5 @@
 ## Yannick Stephan 👋
-#### AI ML engineer 🚀 | Software engineer | Senior mobile developer (iOS & Android)
+#### AI ML engineer 🚀 | Software engineer 
 
 <b>*About Me*:</b>
 
