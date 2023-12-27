@@ -45,7 +45,9 @@
 
 *   💬 **Dialogue Summarize**: Exploration of Large Language Model (LLM) and its capabilities, specifically dialogue summarization abilities. It highlights the use of a comprehensive fine-tuning approach called Efficient Fine-Tuning (PEFT) [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/lnp-perf-dialogsum-dialogue-summarize/)
 
-*   💬 **Less Toxic Dialogue Summarization**: An Exploration of Large Language Models (LLMs) and Their Less Toxic Dialogue Summarization Capabilities. It emphasizes the utilization of Proximal Policy Optimization (POO) [| View on Kaggle |](https://kaggle.com/code/yannicksteph/nlp-ppo-dialogsum-less-toxic-summarize/notebook)
+*   💬 **Less Toxic Dialogue Summarization**: An Exploration of Large Language Models (LLMs) and Their Less Toxic Dialogue Summarization Capabilities. It emphasizes the utilization of Proximal Policy Optimization (POO) 
+
+*   💬 **Basic Applications**: Various applications using Large Language Models (LLMs) from Hugging Face [| View on Kaggle |](https://www.kaggle.com/yannicksteph/nlp-llm-basic-applications)
 
 **Software Libraries:**
 
