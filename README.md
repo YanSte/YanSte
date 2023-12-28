@@ -43,11 +43,11 @@
 
 **Natural language processing (NLP)**
 
-*   💬 **Dialogue Summarize**: Exploration of Large Language Model (LLM) and its capabilities, specifically dialogue summarization abilities. It highlights the use of a comprehensive fine-tuning approach called Efficient Fine-Tuning (PEFT) [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/lnp-perf-dialogsum-dialogue-summarize/)
+*   💬 **Dialogue Summarize**: Exploration of Large Language Model (LLM) and its capabilities, specifically dialogue summarization abilities. It highlights the use of a comprehensive fine-tuning approach called Efficient Fine-Tuning (PEFT). [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/lnp-perf-dialogsum-dialogue-summarize/)
 
-*   💬 **Less Toxic Dialogue Summarization**: An Exploration of Large Language Models (LLMs) and Their Less Toxic Dialogue Summarization Capabilities. It emphasizes the utilization of Proximal Policy Optimization (POO) 
+*   💬 **Less Toxic Dialogue Summarization**: An Exploration of Large Language Models (LLMs) and Their Less Toxic Dialogue Summarization Capabilities. It emphasizes the utilization of Proximal Policy Optimization (POO). 
 
-*   💬 **Basic Applications**: Various applications using Large Language Models (LLMs) from Hugging Face [| View on Kaggle |](https://www.kaggle.com/yannicksteph/nlp-llm-basic-applications)
+*   💬 **Basic Applications**: Various applications using Large Language Models (LLMs) from Hugging Face. [| View on Kaggle |](https://www.kaggle.com/yannicksteph/nlp-llm-basic-applications)
 
 *   💬 **Embeddings, Vector Databases, and Advanced Searchs**: Large Language Models (LLM) and the Power of Vector Embeddings and Databases [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-vector-embeddings-db-search/)
 
