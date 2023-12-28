@@ -49,6 +49,9 @@
 
 *   💬 **Basic Applications**: Various applications using Large Language Models (LLMs) from Hugging Face [| View on Kaggle |](https://www.kaggle.com/yannicksteph/nlp-llm-basic-applications)
 
+*   💬 **Basic Applications**: Large Language Models (LLM) and the Power of Vector Embeddings and Databases [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-vector-embeddings-db-search/)
+
+
 **Software Libraries:**
 
 *   🛠️ **SKit**: A custom software library I developed. [| View on GitHub |](https://github.com/YanSteph/SKit)
