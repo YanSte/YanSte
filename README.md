@@ -51,7 +51,9 @@
 
 *   💬 **Embeddings, Vector Databases, and Advanced Searchs**: Large Language Models (LLM) and the Power of Vector Embeddings and Databases [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-vector-embeddings-db-search/)
 
+
 *   💬 **Pinecone Databases**: Natural Language Processing (NLP) and Large Language Models (LLM) with Vector Database Pinecone [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-vectordb-pinecone)
+*   💬 **Weaviate Databases**: Natural Language Processing (NLP) and Large Language Models (LLM) with Vector Database Weaviate [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-vectordb-weaviate)
 
 
 **Software Libraries:**
