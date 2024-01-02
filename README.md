@@ -53,9 +53,14 @@
 
 
 *   💬 **Pinecone Databases**: Natural Language Processing (NLP) and Large Language Models (LLM) with Vector Database Pinecone [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-vectordb-pinecone)
+
 *   💬 **Weaviate Databases**: Natural Language Processing (NLP) and Large Language Models (LLM) with Vector Database Weaviate [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-vectordb-weaviate)
 
 *   💬 **Building Multi-stage Reasoning Part1**: Natural Language Processing (NLP) and Large Language Models (LLM) with LangChain and Building Multi-stage Reasoning Systems Part1 [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-langchain-multi-step-reasoning-1)
+
+*   💬 **Building Multi-stage Reasoning Part1**: Natural Language Processing (NLP) and Large Language Models (LLM) with LangChain and Building Multi-stage Reasoning Systems Part2 [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-langchain-multi-step-reasoning-2)
+
+*   💬 **Question Answering on Own Data**: Natural Language Processing (NLP) and Large Language Models (LLM) with LangChain and Inretrieval augmented generation (RAG) for Question Answering on Own Data [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-langchain-rag-qa-data/)
 
 **Software Libraries:**
 
