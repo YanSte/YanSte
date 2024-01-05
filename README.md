@@ -37,9 +37,9 @@
 *   🚦 **Traffic Sign Recognition (GTSRB)**: Developed a CNN-based model for real-time traffic sign recognition. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/cnn-cv-gtsrb-classification)
 *   ✍️ **Handwritten Digit Classification (MNIST)**: Achieved high accuracy in classifying handwritten digits using CNN. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/cnn-cv-mnist-classification)
 
-**Generative Models (GM)** 
+**Generative Adversarial Network (GAN)** 
 
-*   🚲 **Bicycle Image Generation**: Exploration of Generative Models (GM) and its capabilities, focusing on the generation of bicycle. [| View on Kaggle |](https://www.kaggle.com/yannicksteph/wgan-gp-gm-quickdraw-image-generation/)
+*   🚲 **Bicycle Image Generation**: Exploration of Generative Models (GAN) and its capabilities, focusing on the generation of bicycle. [| View on Kaggle |](https://www.kaggle.com/yannicksteph/wgan-gp-gm-quickdraw-image-generation/)
 
 **Natural language processing (NLP)**
 
