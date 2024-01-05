@@ -62,6 +62,10 @@
 
 *   💬 **Question Answering on Own Data**: Natural Language Processing (NLP) and Large Language Models (LLM) with LangChain and Inretrieval augmented generation (RAG) for Question Answering on Own Data [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-langchain-rag-qa-data/)
 
+*   💬 **Fine-Tuning LLM with Trainer**: Natural Language Processing (NLP) and Large Language Models (LLM) with Fine-Tuning LLM and Trainer [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-fine-tuning-trainer)
+
+*   💬 **Fine-Tuning LLM with Trainer and DeepSpeed**: Natural Language Processing (NLP) and Large Language Models (LLM) with Fine-Tuning LLM and Trainer and DeepSpeed [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-fine-tuning-trainer-deepspeed/)
+
 **Software Libraries:**
 
 *   🛠️ **SKit**: A custom software library I developed. [| View on GitHub |](https://github.com/YanSteph/SKit)
