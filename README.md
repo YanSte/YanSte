@@ -66,6 +66,8 @@
 
 *   💬 **Fine-Tuning LLM with Trainer and DeepSpeed**: Natural Language Processing (NLP) and Large Language Models (LLM) with Fine-Tuning LLM and Trainer and DeepSpeed [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-fine-tuning-trainer-deepspeed/)
 
+*   💬 **LLM with Society, Bias and toxicity**: Natural Language Processing (NLP) and Large Language Models (LLM), LLM with Society, Bias and toxicity [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-society-bias-toxicity/notebook)
+
 **Software Libraries:**
 
 *   🛠️ **SKit**: A custom software library I developed. [| View on GitHub |](https://github.com/YanSteph/SKit)
