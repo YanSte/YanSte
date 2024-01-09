@@ -68,6 +68,9 @@
 
 *   💬 **LLM with Society, Bias and toxicity**: Natural Language Processing (NLP) and Large Language Models (LLM), LLM with Society, Bias and toxicity [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-society-bias-toxicity/notebook)
 
+*   💬 **LLMOps and make a Pipeline Dev Stag Prod**: Natural Language Processing (NLP) and Large Language Models (LLM) with LLMOps and make a Pipeline Dev Stag Prod [| View on Kaggle |](https://github.com/YanSte/NLP-LLM-LLMOps-Pipeline-Dev-Stag-Prod/)
+
+
 **Software Libraries:**
 
 *   🛠️ **SKit**: A custom software library I developed. [| View on GitHub |](https://github.com/YanSteph/SKit)
