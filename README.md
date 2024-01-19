@@ -43,34 +43,31 @@
 
 **Natural language processing (NLP)**
 
-*   💬 **Dialogue Summarize**: Exploration of Large Language Model (LLM) and its capabilities, specifically dialogue summarization abilities. It highlights the use of a comprehensive fine-tuning approach called Efficient Fine-Tuning (PEFT). [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/lnp-perf-dialogsum-dialogue-summarize/)
+* 💬 **Dialogue Summarization with Efficient Fine-Tuning (PEFT)**: Explore the capabilities of Large Language Models (LLMs) in dialogue summarization, focusing on the Efficient Fine-Tuning (PEFT) approach. [| Kaggle Link |](https://www.kaggle.com/code/yannicksteph/lnp-perf-dialogsum-dialogue-summarize/)
 
-*   💬 **Less Toxic Dialogue Summarization**: An Exploration of Large Language Models (LLMs) and Their Less Toxic Dialogue Summarization Capabilities. It emphasizes the utilization of Proximal Policy Optimization (POO). 
+* 💬 **Less Toxic Dialogue Summarization using Proximal Policy Optimization (POO)**: Delve into the less toxic dialogue summarization capabilities of Large Language Models (LLMs), highlighting the application of Proximal Policy Optimization (POO). [| Kaggle Link |](https://www.kaggle.com/code/yannicksteph/nlp-ppo-dialogsum-less-toxic-summarize/)
 
-*   💬 **Basic Applications**: Various applications using Large Language Models (LLMs) from Hugging Face. [| View on Kaggle |](https://www.kaggle.com/yannicksteph/nlp-llm-basic-applications)
+* 💬 **Basic Applications of Large Language Models (LLMs) from Hugging Face**: Showcase various applications leveraging Large Language Models (LLMs) from Hugging Face. [| Kaggle Link |](https://www.kaggle.com/yannicksteph/nlp-llm-basic-applications)
 
-*   💬 **Embeddings, Vector Databases, and Advanced Searchs**: Large Language Models (LLM) and the Power of Vector Embeddings and Databases [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-vector-embeddings-db-search/)
+* 💬 **Embeddings, Vector Databases, and Advanced Searches with LLMs**: Explore the power of vector embeddings and databases in Large Language Models (LLMs) for advanced searches. [| Kaggle Link |](https://www.kaggle.com/code/yannicksteph/nlp-llm-vector-embeddings-db-search/)
 
+* 💬 **Pinecone Databases in Natural Language Processing (NLP) and LLMs**: Utilize the Vector Database Pinecone for Natural Language Processing (NLP) and Large Language Models (LLMs). [| Kaggle Link |](https://www.kaggle.com/code/yannicksteph/nlp-llm-vectordb-pinecone)
 
-*   💬 **Pinecone Databases**: Natural Language Processing (NLP) and Large Language Models (LLM) with Vector Database Pinecone [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-vectordb-pinecone)
+* 💬 **Weaviate Databases in NLP and LLMs**: Explore the use of the Vector Database Weaviate in Natural Language Processing (NLP) and Large Language Models (LLMs). [| Kaggle Link |](https://www.kaggle.com/code/yannicksteph/nlp-llm-vectordb-weaviate)
 
-*   💬 **Weaviate Databases**: Natural Language Processing (NLP) and Large Language Models (LLM) with Vector Database Weaviate [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-vectordb-weaviate)
+* 💬 **Building Multi-stage Reasoning with LangChain - Part 1 and Part 2**: Implement Natural Language Processing (NLP) and Large Language Models (LLMs) with LangChain to build multi-stage reasoning systems in two parts. [| Part 1 |](https://www.kaggle.com/code/yannicksteph/nlp-llm-langchain-multi-step-reasoning-1) [| Part 2 |](https://www.kaggle.com/code/yannicksteph/nlp-llm-langchain-multi-step-reasoning-2)
 
-*   💬 **Building Multi-stage Reasoning Part1**: Natural Language Processing (NLP) and Large Language Models (LLM) with LangChain and Building Multi-stage Reasoning Systems Part1 [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-langchain-multi-step-reasoning-1)
+* 💬 **Question Answering on Own Data with LangChain and RAG**: Apply Inretrieval augmented generation (RAG) for Question Answering on Own Data using Natural Language Processing (NLP) and Large Language Models (LLMs) with LangChain. [| Kaggle Link |](https://www.kaggle.com/code/yannicksteph/nlp-llm-langchain-rag-qa-data/)
 
-*   💬 **Building Multi-stage Reasoning Part1**: Natural Language Processing (NLP) and Large Language Models (LLM) with LangChain and Building Multi-stage Reasoning Systems Part2 [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-langchain-multi-step-reasoning-2)
+* 💬 **Fine-Tuning LLM with Trainer**: Optimize Large Language Models (LLMs) through fine-tuning using the Trainer approach in Natural Language Processing (NLP). [| Kaggle Link |](https://www.kaggle.com/code/yannicksteph/nlp-llm-fine-tuning-trainer)
 
-*   💬 **Question Answering on Own Data**: Natural Language Processing (NLP) and Large Language Models (LLM) with LangChain and Inretrieval augmented generation (RAG) for Question Answering on Own Data [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-langchain-rag-qa-data/)
+* 💬 **Fine-Tuning LLM with Trainer and DeepSpeed**: Enhance Large Language Models (LLMs) through fine-tuning using the Trainer and DeepSpeed in Natural Language Processing (NLP). [| Kaggle Link |](https://www.kaggle.com/code/yannicksteph/nlp-llm-fine-tuning-trainer-deepspeed/)
 
-*   💬 **Fine-Tuning LLM with Trainer**: Natural Language Processing (NLP) and Large Language Models (LLM) with Fine-Tuning LLM and Trainer [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-fine-tuning-trainer)
+* 💬 **LLMs: Society, Bias, and Toxicity**: Investigate the intersection of Large Language Models (LLMs) with society, bias, and toxicity. [| Kaggle Link |](https://www.kaggle.com/code/yannicksteph/nlp-llm-society-bias-toxicity/notebook)
 
-*   💬 **Fine-Tuning LLM with Trainer and DeepSpeed**: Natural Language Processing (NLP) and Large Language Models (LLM) with Fine-Tuning LLM and Trainer and DeepSpeed [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-fine-tuning-trainer-deepspeed/)
+* 💬 **LLMOps and Pipeline Development (Dev, Stag, Prod)**: Implement Large Language Models (LLMs) using LLMOps and create a comprehensive pipeline for development, staging, and production. [| Kaggle Link |](https://github.com/YanSte/NLP-LLM-LLMOps-Pipeline-Dev-Stag-Prod/)
 
-*   💬 **LLM with Society, Bias and toxicity**: Natural Language Processing (NLP) and Large Language Models (LLM), LLM with Society, Bias and toxicity [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-society-bias-toxicity/notebook)
-
-*   💬 **LLMOps and make a Pipeline Dev Stag Prod**: Natural Language Processing (NLP) and Large Language Models (LLM) with LLMOps and make a Pipeline Dev Stag Prod [| View on Kaggle |](https://github.com/YanSte/NLP-LLM-LLMOps-Pipeline-Dev-Stag-Prod/)
-
-*   💬 **Fine-Tuning LLM for QA T5 Large**: Natural Language Processing (NLP) and Large Language Models (LLM) with Fine-Tuning LLM and make Question answering (QA) with LoRA and Flan-T5 Large [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-fine-tuning-qa-lora-t5)
+* 💬 **Fine-Tuning LLM for QA with LoRA and Flan-T5 Large**: Fine-tune Large Language Models (LLMs) for Question Answering (QA) using LoRA and Flan-T5 Large in Natural Language Processing (NLP). [| Kaggle Link |](https://www.kaggle.com/code/yannicksteph/nlp-llm-fine-tuning-qa-lora-t5)
 
 
 **Software Libraries:**
