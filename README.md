@@ -70,6 +70,8 @@
 
 *   💬 **LLMOps and make a Pipeline Dev Stag Prod**: Natural Language Processing (NLP) and Large Language Models (LLM) with LLMOps and make a Pipeline Dev Stag Prod [| View on Kaggle |](https://github.com/YanSte/NLP-LLM-LLMOps-Pipeline-Dev-Stag-Prod/)
 
+*   💬 **Fine-Tuning LLM for QA T5 Large **: Natural Language Processing (NLP) and Large Language Models (LLM) with Fine-Tuning LLM and make Question answering (QA) with LoRA and Flan-T5 Large [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-fine-tuning-qa-lora-t5)
+
 
 **Software Libraries:**
 
