@@ -24,50 +24,50 @@
 
 **Machine Learning (ML):**
 
-*   🧠 **Brain MGMT Prediction**: Comprehensive analysis and model development for MGMT prediction using an XGBoost ensemble with a U-Net-based feature extractor. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/u-net-cv-brain-prediction)
+*   🧠 **Brain MGMT Prediction**: Comprehensive analysis and model development for MGMT prediction using an XGBoost ensemble with a U-Net-based feature extractor. [| Kaggle |](https://www.kaggle.com/code/yannicksteph/u-net-cv-brain-prediction)
 
 **Deep Neural Networks (DNN):**
 
-*   🍷 **Wine Quality Prediction**: Utilized DNN to predict wine quality based on physicochemical properties. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/dnn-wine-prediction)
+*   🍷 **Wine Quality Prediction**: Utilized DNN to predict wine quality based on physicochemical properties. [| Kaggle |](https://www.kaggle.com/code/yannicksteph/dnn-wine-prediction)
 
 **Computer Vision (CV):**
 
-*   🧠 **Brain MGMT Prediction**: Developed a CNN-based model for prediction of the MGMT. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/cnn-cv-brain-prediction)
-*   🌾 **Rice Grain Classification**: Employed CNN to classify different types of rice grains. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/cnn-cv-rice-classification)
-*   🚦 **Traffic Sign Recognition (GTSRB)**: Developed a CNN-based model for real-time traffic sign recognition. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/cnn-cv-gtsrb-classification)
-*   ✍️ **Handwritten Digit Classification (MNIST)**: Achieved high accuracy in classifying handwritten digits using CNN. [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/cnn-cv-mnist-classification)
+*   🧠 **Brain MGMT Prediction**: Developed a CNN-based model for prediction of the MGMT. [| Kaggle |](https://www.kaggle.com/code/yannicksteph/cnn-cv-brain-prediction)
+*   🌾 **Rice Grain Classification**: Employed CNN to classify different types of rice grains. [| Kaggle |](https://www.kaggle.com/code/yannicksteph/cnn-cv-rice-classification)
+*   🚦 **Traffic Sign Recognition (GTSRB)**: Developed a CNN-based model for real-time traffic sign recognition. [| Kaggle |](https://www.kaggle.com/code/yannicksteph/cnn-cv-gtsrb-classification)
+*   ✍️ **Handwritten Digit Classification (MNIST)**: Achieved high accuracy in classifying handwritten digits using CNN. [| Kaggle |](https://www.kaggle.com/code/yannicksteph/cnn-cv-mnist-classification)
 
 **Generative Adversarial Network (GAN)** 
 
-*   🚲 **Bicycle Image Generation**: Exploration of Generative Models (GAN) and its capabilities, focusing on the generation of bicycle. [| View on Kaggle |](https://www.kaggle.com/yannicksteph/wgan-gp-gm-quickdraw-image-generation/)
+*   🚲 **Bicycle Image Generation**: Exploration of Generative Models (GAN) and its capabilities, focusing on the generation of bicycle. [| Kaggle |](https://www.kaggle.com/yannicksteph/wgan-gp-gm-quickdraw-image-generation/)
 
 **Natural language processing (NLP)**
 
-* 💬 **Dialogue Summarization with Efficient Fine-Tuning (PEFT)**: Explore the capabilities of Large Language Models (LLMs) in dialogue summarization, focusing on the Efficient Fine-Tuning (PEFT) approach. [| Kaggle Link |](https://www.kaggle.com/code/yannicksteph/lnp-perf-dialogsum-dialogue-summarize/)
+* 💬 **Dialogue Summarization with Efficient Fine-Tuning (PEFT)**: Explore the capabilities of Large Language Models (LLMs) in dialogue summarization, focusing on the Efficient Fine-Tuning (PEFT) approach. [| Kaggle |](https://www.kaggle.com/code/yannicksteph/lnp-perf-dialogsum-dialogue-summarize/)
 
-* 💬 **Less Toxic Dialogue Summarization using Proximal Policy Optimization (POO)**: Delve into the less toxic dialogue summarization capabilities of Large Language Models (LLMs), highlighting the application of Proximal Policy Optimization (POO). [| Kaggle Link |](https://www.kaggle.com/code/yannicksteph/nlp-ppo-dialogsum-less-toxic-summarize/)
+* 💬 **Less Toxic Dialogue Summarization using Proximal Policy Optimization (POO)**: Delve into the less toxic dialogue summarization capabilities of Large Language Models (LLMs), highlighting the application of Proximal Policy Optimization (POO). [| Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-ppo-dialogsum-less-toxic-summarize/)
 
-* 💬 **Basic Applications of Large Language Models (LLMs) from Hugging Face**: Showcase various applications leveraging Large Language Models (LLMs) from Hugging Face. [| Kaggle Link |](https://www.kaggle.com/yannicksteph/nlp-llm-basic-applications)
+* 💬 **Basic Applications of Large Language Models (LLMs) from Hugging Face**: Showcase various applications leveraging Large Language Models (LLMs) from Hugging Face. [| Kaggle |](https://www.kaggle.com/yannicksteph/nlp-llm-basic-applications)
 
-* 💬 **Embeddings, Vector Databases, and Advanced Searches with LLMs**: Explore the power of vector embeddings and databases in Large Language Models (LLMs) for advanced searches. [| Kaggle Link |](https://www.kaggle.com/code/yannicksteph/nlp-llm-vector-embeddings-db-search/)
+* 💬 **Embeddings, Vector Databases, and Advanced Searches with LLMs**: Explore the power of vector embeddings and databases in Large Language Models (LLMs) for advanced searches. [| Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-vector-embeddings-db-search/)
 
-* 💬 **Pinecone Databases in Natural Language Processing (NLP) and LLMs**: Utilize the Vector Database Pinecone for Natural Language Processing (NLP) and Large Language Models (LLMs). [| Kaggle Link |](https://www.kaggle.com/code/yannicksteph/nlp-llm-vectordb-pinecone)
+* 💬 **Pinecone Databases in Natural Language Processing (NLP) and LLMs**: Utilize the Vector Database Pinecone for Natural Language Processing (NLP) and Large Language Models (LLMs). [| Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-vectordb-pinecone)
 
-* 💬 **Weaviate Databases in NLP and LLMs**: Explore the use of the Vector Database Weaviate in Natural Language Processing (NLP) and Large Language Models (LLMs). [| Kaggle Link |](https://www.kaggle.com/code/yannicksteph/nlp-llm-vectordb-weaviate)
+* 💬 **Weaviate Databases in NLP and LLMs**: Explore the use of the Vector Database Weaviate in Natural Language Processing (NLP) and Large Language Models (LLMs). [| Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-vectordb-weaviate)
 
-* 💬 **Building Multi-stage Reasoning with LangChain - Part 1 and Part 2**: Implement Natural Language Processing (NLP) and Large Language Models (LLMs) with LangChain to build multi-stage reasoning systems in two parts. [| Part 1 |](https://www.kaggle.com/code/yannicksteph/nlp-llm-langchain-multi-step-reasoning-1) [| Part 2 |](https://www.kaggle.com/code/yannicksteph/nlp-llm-langchain-multi-step-reasoning-2)
+* 💬 **Building Multi-stage Reasoning with LangChain - Part 1 and Part 2**: Implement Natural Language Processing (NLP) and Large Language Models (LLMs) with LangChain to build multi-stage reasoning systems in two parts. [| Kaggle Part 1 |](https://www.kaggle.com/code/yannicksteph/nlp-llm-langchain-multi-step-reasoning-1) [| Kaggle Part 2 |](https://www.kaggle.com/code/yannicksteph/nlp-llm-langchain-multi-step-reasoning-2)
 
-* 💬 **Question Answering on Own Data with LangChain and RAG**: Apply Inretrieval augmented generation (RAG) for Question Answering on Own Data using Natural Language Processing (NLP) and Large Language Models (LLMs) with LangChain. [| Kaggle Link |](https://www.kaggle.com/code/yannicksteph/nlp-llm-langchain-rag-qa-data/)
+* 💬 **Question Answering on Own Data with LangChain and RAG**: Apply Inretrieval augmented generation (RAG) for Question Answering on Own Data using Natural Language Processing (NLP) and Large Language Models (LLMs) with LangChain. [| Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-langchain-rag-qa-data/)
 
-* 💬 **Fine-Tuning LLM with Trainer**: Optimize Large Language Models (LLMs) through fine-tuning using the Trainer approach in Natural Language Processing (NLP). [| Kaggle Link |](https://www.kaggle.com/code/yannicksteph/nlp-llm-fine-tuning-trainer)
+* 💬 **Fine-Tuning LLM with Trainer**: Optimize Large Language Models (LLMs) through fine-tuning using the Trainer approach in Natural Language Processing (NLP). [| Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-fine-tuning-trainer)
 
-* 💬 **Fine-Tuning LLM with Trainer and DeepSpeed**: Enhance Large Language Models (LLMs) through fine-tuning using the Trainer and DeepSpeed in Natural Language Processing (NLP). [| Kaggle Link |](https://www.kaggle.com/code/yannicksteph/nlp-llm-fine-tuning-trainer-deepspeed/)
+* 💬 **Fine-Tuning LLM with Trainer and DeepSpeed**: Enhance Large Language Models (LLMs) through fine-tuning using the Trainer and DeepSpeed in Natural Language Processing (NLP). [| Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-fine-tuning-trainer-deepspeed/)
 
-* 💬 **LLMs: Society, Bias, and Toxicity**: Investigate the intersection of Large Language Models (LLMs) with society, bias, and toxicity. [| Kaggle Link |](https://www.kaggle.com/code/yannicksteph/nlp-llm-society-bias-toxicity/notebook)
+* 💬 **LLMs: Society, Bias, and Toxicity**: Investigate the intersection of Large Language Models (LLMs) with society, bias, and toxicity. [| Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-society-bias-toxicity/notebook)
 
-* 💬 **LLMOps and Pipeline Development (Dev, Stag, Prod)**: Implement Large Language Models (LLMs) using LLMOps and create a comprehensive pipeline for development, staging, and production. [| Kaggle Link |](https://github.com/YanSte/NLP-LLM-LLMOps-Pipeline-Dev-Stag-Prod/)
+* 💬 **LLMOps and Pipeline Development (Dev, Stag, Prod)**: Implement Large Language Models (LLMs) using LLMOps and create a comprehensive pipeline for development, staging, and production. [| Kaggle |](https://github.com/YanSte/NLP-LLM-LLMOps-Pipeline-Dev-Stag-Prod/)
 
-* 💬 **Fine-Tuning LLM for QA with LoRA and Flan-T5 Large**: Fine-tune Large Language Models (LLMs) for Question Answering (QA) using LoRA and Flan-T5 Large in Natural Language Processing (NLP). [| Kaggle Link |](https://www.kaggle.com/code/yannicksteph/nlp-llm-fine-tuning-qa-lora-t5)
+* 💬 **Fine-Tuning LLM for QA with LoRA and Flan-T5 Large**: Fine-tune Large Language Models (LLMs) for Question Answering (QA) using LoRA and Flan-T5 Large in Natural Language Processing (NLP). [| Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-fine-tuning-qa-lora-t5)
 
 
 **Software Libraries:**
