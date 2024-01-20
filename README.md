@@ -67,7 +67,7 @@
 
 * 💬 **LLMOps and Pipeline (Dev, Stag, Prod)**: Implement LLMs using LLMOps and create a comprehensive pipeline for development, staging, and production. [| Kaggle |](https://github.com/YanSte/NLP-LLM-LLMOps-Pipeline-Dev-Stag-Prod/)
 
-* 💬 **Fine-Tuning LLM for QA with LoRA and Flan-T5 Large**: Fine-tune LLMs for QA using LoRA and Flan-T5 Large. [| Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-fine-tuning-qa-lora-t5)
+* 💬 **Fine-Tuning LLM for QA with LoRA and Flan-T5 Large**: Fine-tune LLMs for QA using LoRA and Flan-T5 Large. [| Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-fine-tuning-qa-lora-t5) [Hugging Face Model](https://huggingface.co/YanSte/t5_large_fine_tuning_question_answering_hc3_chatgpt_prompts)
 
 
 **Software Libraries:**
