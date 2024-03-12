@@ -44,11 +44,3 @@
 **Natural language processing (NLP)**
 
 * **All my research** [NLP](https://github.com/YanSte/NLP)
-
-* 💬 **Fine-Tuning LLM for QA with LoRA and Flan-T5 Large**: Fine-tune LLMs for QA using LoRA and Flan-T5 Large. [| Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-fine-tuning-qa-lora-t5) [| Hugging Face Model |](https://huggingface.co/YanSte/t5_large_fine_tuning_question_answering_hc3_chatgpt_prompts)
-
-* 💬 **Fine-Tuning LLM LLama 2 QLoRA**: Fine-tune LLMs for chat using QLoRA and Llama 2 in 2024. [| Kaggle |](https://www.kaggle.com/yannicksteph/nlp-llm-fine-tuning-llama-2-qlora/)
-
-**Software Libraries:**
-
-*   🛠️ **SKit**: A custom software library I developed. [| View on GitHub |](https://github.com/YanSteph/SKit)
