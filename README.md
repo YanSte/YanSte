@@ -43,29 +43,7 @@
 
 **Natural language processing (NLP)**
 
-* 💬 **Dialogue Summarization with PEFT**: Explore LLM capabilities in dialogue summarization using PEFT. [| Kaggle |](https://www.kaggle.com/code/yannicksteph/lnp-perf-dialogsum-dialogue-summarize/)
-
-* 💬 **Less Toxic Dialogue Summarization with POO**: Dive into less toxic dialogue summarization using POO with LLMs. [| Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-ppo-dialogsum-less-toxic-summarize/)
-
-* 💬 **Basic LLM Applications from Hugging Face**: Showcase various applications leveraging LLMs from Hugging Face. [| Kaggle |](https://www.kaggle.com/yannicksteph/nlp-llm-basic-applications)
-
-* 💬 **Embeddings, Vector Databases, and Advanced Searches**: Explore vector embeddings and databases in LLMs for advanced searches. [| Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-vector-embeddings-db-search/)
-
-* 💬 **Pinecone Databases**: Explore Pinecone and LLM vector databases. [| Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-vectordb-pinecone)
-
-* 💬 **Weaviate Databases**: Explore Weaviate and LLM vector databases. [| Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-vectordb-weaviate)
-
-* 💬 **Multi-stage Reasoning with LangChain**: Enhance LLMs with LangChain for multi-stage reasoning. [| Kaggle Part 1 |](https://www.kaggle.com/code/yannicksteph/nlp-llm-langchain-multi-step-reasoning-1) [| Part 2 |](https://www.kaggle.com/code/yannicksteph/nlp-llm-langchain-multi-step-reasoning-2)
-
-* 💬 **QA on Own Data with LangChain and RAG**: Apply RAG for Question Answering on Own Data using NLP and LLMs with LangChain. [| Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-langchain-rag-qa-data/)
-
-* 💬 **Fine-Tuning LLM with Trainer**: Optimize LLMs through fine-tuning using the Trainer approach. [| Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-fine-tuning-trainer)
-
-* 💬 **Fine-Tuning LLM with Trainer and DeepSpeed**: Enhance LLMs through fine-tuning using Trainer and DeepSpeed. [| Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-fine-tuning-trainer-deepspeed/)
-
-* 💬 **LLMs with Society, Bias, and Toxicity**: Investigate the intersection of LLMs with society, bias, and toxicity. [| Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-society-bias-toxicity/notebook)
-
-* 💬 **LLMOps and Pipeline (Dev, Stag, Prod)**: Implement LLMs using LLMOps and create a comprehensive pipeline for development, staging, and production. [| Kaggle |](https://github.com/YanSte/NLP-LLM-LLMOps-Pipeline-Dev-Stag-Prod/)
+* **All my research** [NLP](https://github.com/YanSte/NLP)
 
 * 💬 **Fine-Tuning LLM for QA with LoRA and Flan-T5 Large**: Fine-tune LLMs for QA using LoRA and Flan-T5 Large. [| Kaggle |](https://www.kaggle.com/code/yannicksteph/nlp-llm-fine-tuning-qa-lora-t5) [| Hugging Face Model |](https://huggingface.co/YanSte/t5_large_fine_tuning_question_answering_hc3_chatgpt_prompts)
 
