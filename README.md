@@ -103,7 +103,8 @@
 - [Model Selection](https://github.com/YanSte/NLP-Mistral-Prompting)
 - [Function Calling](https://github.com/YanSte/NLP-Mistral-Function-Calling)
 - [RAG](https://github.com/YanSte/NLP-Mistral-RAG)
-
+- [Chat UI](https://github.com/YanSte/NLP-Mistral-Chat-UI)
+  
 ### Langchain
 - [LangChain MultStepReason 1](https://github.com/YanSte/NLP-LLM-LangChain-Multi-Step-Reasoning-Part-1)
 - [LangChain ReAct MultStepReason 2](https://github.com/YanSte/NLP-LLM-LangChain-ReAct-MultStepReason-2)
