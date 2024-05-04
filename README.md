@@ -41,9 +41,8 @@
 
 *   🚲 **Bicycle Image Generation**: Exploration of Generative Models (GAN) and its capabilities, focusing on the generation of bicycle. [| Kaggle |](https://www.kaggle.com/yannicksteph/wgan-gp-gm-quickdraw-image-generation/)
 
-**Natural language processing (NLP)**
-
-# NLP Resources
+* * *
+# Natural language processing (NLP)
 
 ## Base NLP Techniques
 - [Base Stemming and Lemmatization](https://github.com/YanSte/NLP-Stemming-and-Lemmatization)
