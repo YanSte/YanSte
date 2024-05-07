@@ -115,6 +115,8 @@
 - [Fine Tuning Trainer](https://github.com/YanSte/NLP-LLM-Fine-Tuning-Trainer)
 - [Fine Tuning PEFT LoRA](https://github.com/YanSte/NLP-PEFT-LoRA-DialogSum-Dialogue-Summarize)
 - [Fine Tuning POO](https://github.com/YanSte/NLP-PPO-DialogSum-Less-Toxic-Summarize)
+- [Embedding-Model-Fine-Tuning](https://github.com/YanSte/Embedding-Model-Fine-Tuning)
+
 
 ### Fine-Tuning Options
 - [Fine Tuning DeepSpeed](https://github.com/YanSte/NLP-LLM-Fine-tuning-DeepSpeed)
