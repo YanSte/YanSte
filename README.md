@@ -130,4 +130,6 @@
 
 ## Vision
 - [Vision with PaliGemma](https://github.com/YanSte/NLP-Vision-PaliGemma/tree/main)
+- [PaliGemma Fine Tuning](https://github.com/YanSte/NLP-Vision-PaliGemma-Fine-Tuning)
+
 
