@@ -127,3 +127,7 @@
 
 ## LLMOps
 - [LLMOps Pipeline Dev Stag Prod](https://github.com/YanSte/NLP-LLM-LLMOps-Pipeline-Dev-Stag-Prod)
+
+## Vision
+- [Vision with PaliGemma](https://github.com/YanSte/NLP-Vision-PaliGemma/tree/main)
+
