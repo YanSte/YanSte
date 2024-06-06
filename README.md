@@ -1,9 +1,7 @@
 ## Yannick Stephan 👋
 #### AI ML engineer | Senior Software engineer 
 
-✉️ &nbsp;Get in touch on [LinkedIn](https://www.linkedin.com/in/yannick-stephan/) & [Stack Overflow](https://stackoverflow.com/users/3765457/yannsteph) 
-
-🌎 
+✉️ &nbsp;Get in touch on [LinkedIn](https://www.linkedin.com/in/yannick-stephan/) & [Stack Overflow](https://stackoverflow.com/users/3765457/yannsteph) 🌎 
 
 * * *
 
