@@ -105,6 +105,7 @@
 
 ### Fine-Tuning Options
 - [Fine Tuning DeepSpeed](https://github.com/YanSte/NLP-LLM-Fine-tuning-DeepSpeed)
+- [Fine Tuning LoRA and Predibase](https://www.kaggle.com/code/yannicksteph/nlp-llm-lora-predibase-fine-tune-own-llms)
 
 ### Log Monitor Text Metrics
 - [Society Bias Toxicity](https://github.com/YanSte/NLP-LLM-Society-Bias-Toxicity)
